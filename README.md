@@ -93,13 +93,6 @@ This repository contains the Group–2 field report and supporting materials fro
 
 ---
 
-## 📦 How to Use
-1. Clone the repo and open the PDF report in `/report/`.
-2. (Optional) Place your measurement tables in `/data/` and use your preferred plotting tools (e.g., Python/matplotlib) to regenerate rose diagrams and stratigraphic panels.
-3. Add field photographs and sketches under `/figures/` to enrich the README and GitHub Pages.
-
----
-
 ## 🔖 Citation
 If you use this repository or the report, please cite as:  
 **Group–2 (2024–2025), Chalsa Field Report, Department of Geology & Geophysics, IIT Kharagpur.**
